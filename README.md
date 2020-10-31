@@ -1,1 +1,1 @@
-# java-code-samples
+Facebook based OAuth App written on Java
